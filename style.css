@@ -1,0 +1,13 @@
+.primary-title {
+	color: red;
+	background: yellow;
+}
+.secondary {
+	color: green;
+}
+.big {
+	font-size: 20px;
+}
+.small {
+	font-size: 12px;
+}
